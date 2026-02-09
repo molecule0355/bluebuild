@@ -27,6 +27,7 @@ modules:
         - plasma-mobile-sounds
         - qmlkonsole
         - fedora-release-kinoite-mobile
+        -  plasma-keyboard
         ## waydroid things
         - waydroid
     remove:
